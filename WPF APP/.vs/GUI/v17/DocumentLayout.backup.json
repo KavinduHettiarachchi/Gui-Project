@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\order.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\order.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\about.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\about.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\menudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\menudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\order.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\order.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\migrations\\orderdb\\20250306140131_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\migrations\\orderdb\\20250306140131_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|c:\\users\\asus\\desktop\\gui\\gui\\migrations\\20250306133423_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB9F3F9-D381-436B-BB16-7171AEF54A94}|GUI\\GUI.csproj|solutionrelative:gui\\migrations\\20250306133423_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GUI.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\GUI.csproj",
+              "RelativeDocumentMoniker": "GUI\\GUI.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\GUI.csproj",
+              "RelativeToolTip": "GUI\\GUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T15:07:11.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\About.xaml",
+              "RelativeDocumentMoniker": "GUI\\About.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\About.xaml",
+              "RelativeToolTip": "GUI\\About.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T14:55:00.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "GUI\\OrderDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\OrderDbContext.cs",
+              "RelativeToolTip": "GUI\\OrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:57:25.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Order.cs",
+              "RelativeDocumentMoniker": "GUI\\Order.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Order.cs",
+              "RelativeToolTip": "GUI\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:55:29.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Order.xaml",
+              "RelativeDocumentMoniker": "GUI\\Order.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Order.xaml",
+              "RelativeToolTip": "GUI\\Order.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T13:48:11.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\Menu.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Menu.xaml.cs",
+              "RelativeToolTip": "GUI\\Menu.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:26:43.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\HomePage.xaml.cs",
+              "RelativeToolTip": "GUI\\HomePage.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:16:44.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\HomePage.xaml",
+              "RelativeDocumentMoniker": "GUI\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\HomePage.xaml",
+              "RelativeToolTip": "GUI\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T08:00:15.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250306140131_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Migrations\\OrderDb\\20250306140131_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GUI\\Migrations\\OrderDb\\20250306140131_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Migrations\\OrderDb\\20250306140131_InitialCreate.cs",
+              "RelativeToolTip": "GUI\\Migrations\\OrderDb\\20250306140131_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:01:31.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Settings.xaml",
+              "RelativeDocumentMoniker": "GUI\\Settings.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Settings.xaml",
+              "RelativeToolTip": "GUI\\Settings.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T14:55:24.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Order.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\Order.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Order.xaml.cs",
+              "RelativeToolTip": "GUI\\Order.xaml.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:03:41.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\MenuDbContext.cs",
+              "RelativeDocumentMoniker": "GUI\\MenuDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\MenuDbContext.cs",
+              "RelativeToolTip": "GUI\\MenuDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:21:53.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250306133423_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Migrations\\20250306133423_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GUI\\Migrations\\20250306133423_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Migrations\\20250306133423_InitialCreate.cs",
+              "RelativeToolTip": "GUI\\Migrations\\20250306133423_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:34:23.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Menu.xaml",
+              "RelativeDocumentMoniker": "GUI\\Menu.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\Menu.xaml",
+              "RelativeToolTip": "GUI\\Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T12:47:48.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\FoodItem.cs",
+              "RelativeDocumentMoniker": "GUI\\FoodItem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\FoodItem.cs",
+              "RelativeToolTip": "GUI\\FoodItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:20:36.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\MainWindow.xaml",
+              "RelativeToolTip": "GUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T07:54:57.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\GUI\\GUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:54:55.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
